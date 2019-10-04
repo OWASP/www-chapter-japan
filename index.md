@@ -7,13 +7,40 @@ level: 4
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP Japanチャプターのホームページへようこそ。
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+OWASP - Open Web Application Security Project とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、オープンソース・ソフトウェアコミュニティです。The OWASP Foundationは、NPO団体として全世界のOWASPの活動を支えています。
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+OWASP Japanチャプターは、首都圏のみならず、国内全域における、チャプター設立支援や、特にチャプターのない地域での普及啓発など全国でのセキュリティ啓発活動を行なっています。また、全国でお使いになれる成果物、すなわち各種翻訳プロジェクトなど、グローバルのOWASPコミュニティと連携しています。成果物は、政府・行政機関、教育機関、企業・団体などで活用いただいています。OWASP Japanには、どの地域にお住まいの方もご参加いただけます。
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## OWASP Japanに参加するには
+* OWASP Japanが主催・参画するイベントに、どうぞご参加ください。
+* ローカルチャプターミーティングとして、３ヶ月に一度かそれ以上の頻度でOWASP Night/Dayを開催しています。
+* 講演者派遣要請： 広くオープンな場での講演要請などにも応じています。
+* ソーシャルネットワーク
+  * Facebook: OWASP Japan Facebook Page, OWASP Japanメンターグループ
+  * Twitter: @owaspJapan
+  * Youtube: OWASP JAPAN channel
+  * Google Calendar: OWASP JAPAN Calnedar
+  
+  
+## 会員制度 / チャプタースポンサーシップ
+OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+### 会員制度 OWASP.orgの、Membershipのページをご覧ください。
+* 企業・団体様: 年間5000ドル。この範囲で支援プロジェクトのAllocationを行うことができます。ぜひ、OWASP Japan Chapterをご指定ください。
+  * Membershipページへのブランド掲載。Japanサイトへの掲載。(JapanをAllocationいただいた場合)
+  * OWASPグローバルイベントにおける特典
+  
+* 個人: 年間50ドル(グローバル)、500ドル(ライフタイム)
+  * owasp.org メールアドレス付与
+  * 会員限定のニュース配信
+  * OWASPの組織の投票への参加
+  * ローカルミーティングへの優先入場を提供することもあります。
 
+### ローカル・スポンサーシップ
+   * OWASP Japan チャプター支援として上記の会員制度とは別に2000ドルのご寄付から受け付けています。
+   * OWASP Foundationを通してお申し込みください：詳細は、Local Chapter Supporterをご覧くださり、2000ドルのドネーションをお申し込みください。
+
+### アカデミックサポーター制度 大学・教育機関
+  * これには費用はかかりませんが、大学での授業への活用を推進することなどによる連携となります。ご関心のある方はリーダーまでお問い合わせください。
