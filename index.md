@@ -5,6 +5,8 @@ title: OWASP japan
 tags: example-tag
 level: 4
 
+region: Asia/Pacific
+
 ---
 
 # OWASP Japanチャプターのホームページへようこそ。
