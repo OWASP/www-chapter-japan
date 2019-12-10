@@ -1,17 +1,6 @@
-### japan Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Japan Chapter
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+### Social Links
+* [Facebook](https://www.facebook.com/owaspjapan/)
+* [Twitter](https://twitter.com/owaspjapan)
+* [チャプターミーティング](https://owasp.doorkeeper.jp/)
