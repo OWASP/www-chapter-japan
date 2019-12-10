@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP japan
+title: OWASP Japan
 tags: example-tag
 level: 4
 
@@ -18,14 +18,8 @@ OWASP Japanチャプターは、首都圏のみならず、国内全域におけ
 ## OWASP Japanに参加するには
 * OWASP Japanが主催・参画するイベントに、どうぞご参加ください。
 * ローカルチャプターミーティングとして、３ヶ月に一度かそれ以上の頻度でOWASP Night/Dayを開催しています。
-* 講演者派遣要請： 広くオープンな場での講演要請などにも応じています。
-* ソーシャルネットワーク
-  * Facebook: OWASP Japan Facebook Page, OWASP Japanメンターグループ
-  * Twitter: @owaspJapan
-  * Youtube: OWASP JAPAN channel
-  * Google Calendar: OWASP JAPAN Calnedar
-  
-  
+* 講演者派遣要請： 広くオープンな場での講演要請などに応じています。
+    
 ## 会員制度 / チャプタースポンサーシップ
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
