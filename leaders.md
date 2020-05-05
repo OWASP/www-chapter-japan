@@ -1,6 +1,6 @@
 ### Leaders
-* Riotaro OKADA (riotaro at owasp.org)
-* Sen UENO (sen.ueno at owasp.org)
+* [Riotaro OKADA](mailto:riotaro@owasp.org)
+* [Sen UENO](mailto:sen.ueno@owasp.org)
 
 ### Board Member
 * Dracea Robert
