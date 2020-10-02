@@ -5,6 +5,8 @@
 * [チートシート](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
 
 ### Japan Chapter Links
+* [Meetup](https://www.meetup.com/tokyo-owasp-meetup-group/)
+
 * [Facebook](https://www.facebook.com/owaspjapan/)
 * [Twitter @owaspjapan](https://twitter.com/owaspjapan)
 * [Meeting: doorkeeper](https://owasp.doorkeeper.jp/)
