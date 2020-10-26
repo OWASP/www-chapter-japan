@@ -1,6 +1,6 @@
 ---
 title: 脆弱性診断士スキルマッププロジェクト
-layout:  null
+layout: null
 tab: true
 order: 1
 tags: 脆弱性診断士スキルマッププロジェクト
