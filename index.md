@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Japan
-tags: example-tag
+tags: skillmap_project
 level: 4
 
 region: Asia
