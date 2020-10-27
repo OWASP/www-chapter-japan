@@ -1,7 +1,8 @@
 ---
 title: Example
+displaytext:example 
 layout:  null
-tab: true
+tab: false
 order: 2
 tags: example-tag
 ---
