@@ -1,5 +1,5 @@
 ---
-title: 脆弱性診断士スキルマッププロジェクト
+title: skillmap_project
 layout: null
 tab: true
 order: 1
