@@ -4,7 +4,7 @@ displaytext: 脆弱性診断士スキルマッププロジェクト
 layout: null
 tab: true
 order: 2
-tags: 脆弱性診断士スキルマッププロジェクト
+tags: skillmap_project
 ---
 
 # 脆弱性診断士スキルマッププロジェクト
