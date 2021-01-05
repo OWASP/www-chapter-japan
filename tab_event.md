@@ -15,8 +15,8 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
 * Program
     * OWASP Session!!
     * Hardening Session!!
-* [registration doorkeeper](https://owasp.doorkeeper.jp/events/116127)
-* [registration meetup](https://www.meetup.com/ja-JP/japan-owasp-meetup-group/events/275535039/)
+* [registration doorkeeper.jp](https://owasp.doorkeeper.jp/events/116127)
+* [registration meetup.com](https://www.meetup.com/ja-JP/japan-owasp-meetup-group/events/275535039/)
 
 ## スピーカー募集（常時）
 アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。もしスピーカーになることにご関心のある方、またそのような方をご存知の方は、お気軽に riotaro at owasp.org までお知らせください。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。
