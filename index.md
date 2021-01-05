@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Japan
-tags: event, skillmap_project
+tags: Japan
 level: 0
-
 region: Asia
+country: Japan
 
 ---
 
