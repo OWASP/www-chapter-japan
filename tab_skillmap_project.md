@@ -4,7 +4,7 @@ displaytext: 脆弱性診断士スキルマッププロジェクト
 layout: col-sidebar
 tab: true
 order: 2
-tags: skillmap_project
+tags: japan
 ---
 
 # 脆弱性診断士スキルマッププロジェクト
