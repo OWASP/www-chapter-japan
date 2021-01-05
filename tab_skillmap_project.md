@@ -1,7 +1,7 @@
 ---
 title: skillmap_project
 displaytext: 脆弱性診断士スキルマッププロジェクト
-layout: null
+layout: col-sidebar
 tab: true
 order: 2
 tags: skillmap_project
