@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Japan
-tags: Japan
+tags: japan
 level: 0
 region: Asia
 country: Japan
