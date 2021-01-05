@@ -1,7 +1,7 @@
 ---
-title: Event
-displaytext:イベント 
-layout:  null
+title: event
+displaytext: イベント 
+layout: null
 tab: true
 order: 1
 tags: event
