@@ -1,10 +1,10 @@
 ---
 title: event
 displaytext: イベント 
-layout: null
+layout:  col-sidebar
 tab: true
-order: 2
-tags: event
+order: 1
+tags: japan
 ---
 
 # イベント
