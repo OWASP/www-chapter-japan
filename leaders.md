@@ -9,6 +9,6 @@
 * Takanori Nakanowatari
 * Yoshinari Fukumoto
 * Yoshinori Takesako
-* Yosuke Hasegawa - OWASP Kansai Board
+* Yosuke Hasegawa
 * Yukihiro Nowatari
-* Shoichi Nakata - Promotion Team Lead
+* Shoichi Nakata
