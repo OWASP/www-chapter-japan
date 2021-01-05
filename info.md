@@ -1,5 +1,5 @@
-* 翻訳/日本語編集ボランティア希望者は！ [OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja)
-* イベント登壇して経験を共有しよう！[イベントページ]()
+### 翻訳/日本語編集ボランティア希望者は！ [OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja)
+* イベント登壇して経験を共有しよう！[イベントページ](https://owasp.org/www-chapter-japan/#div-event)
 
 ### ドキュメントショートカット
 * [OWASP ASVS 4.0 日本語版](https://github.com/owasp-ja/asvs-ja)
