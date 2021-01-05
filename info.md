@@ -1,16 +1,26 @@
-### ショートカット
+* 翻訳/日本語編集ボランティア希望者は！ [OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja)
+* イベント登壇して経験を共有しよう！[イベントページ]()
+
+### ドキュメントショートカット
+* [OWASP ASVS 4.0 日本語版](https://github.com/owasp-ja/asvs-ja)
 * [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
 * [Mobile ASVS日本語](https://github.com/OWASP/owasp-masvs/blob/master/Document-ja/0x02-Frontispiece.md)
-* [ASVS(English)](https://github.com/OWASP/ASVS)
-* [チートシート](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
+* [開発者のためのOWASPチートシート(英語)](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
 
 ### Japan Chapter Links
-* [Meetup](https://www.meetup.com/tokyo-owasp-meetup-group/)
-
-* [Facebook](https://www.facebook.com/owaspjapan/)
-* [Twitter @owaspjapan](https://twitter.com/owaspjapan)
-* [Meeting: doorkeeper](https://owasp.doorkeeper.jp/)
-* [Blog](https://blog.owaspjapan.org/)
 * [Youtube OWASP Japan channel](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
-* [Google Calendar: OWASP JAPAN](https://calendar.google.com/calendar/b/1?cid=MGViaHU2dm5zdDYyOXMwM2lxMzR0NHZqbThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* [Google Calendar: OWASP Event](https://calendar.google.com/calendar/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo%40group.calendar.google.com)
+
+* イベント参加登録 
+   * [doorkeeper](https://owasp.doorkeeper.jp/)
+   * [Meetup](https://www.meetup.com/japan-owasp-meetup-group/) * in the future...?
+   
+* SNS
+  * [Facebook](https://www.facebook.com/owaspjapan/)
+  * [Twitter @owaspjapan](https://twitter.com/owaspjapan)
+  
+  Archived
+  * [Blog](https://blog.owaspjapan.org/)
+  
+* Useful Calendars
+  * [Google Calendar: OWASP JAPAN](https://calendar.google.com/calendar/b/1?cid=MGViaHU2dm5zdDYyOXMwM2lxMzR0NHZqbThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  * [Google Calendar: OWASP Event](https://calendar.google.com/calendar/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo%40group.calendar.google.com)
