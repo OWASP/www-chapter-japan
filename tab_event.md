@@ -11,9 +11,13 @@ tags: japan
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 
 ## [NEW] WASNight 2021 Kick-off! (OWASP Night x WASForum = WASNight)
-* 2021-01-15 18:30-22:00(maybe)
-* Program
-    * OWASP Session!!
+* 2021-01-15 (maybe)
+* 18:30-20:00 OWASP Session
+    * MC: 岡田良太郎・根岸征史
+    * BUILDERS': いまさら聞けないApache Guacamole 安田真悟(NICT)
+    * BREAKERS': 攻撃しながら考えるKubernetesセキュリティ 藤井秀行
+    * OWASP Chapter leaders!
+    * DEFENDERS' TALK: 昨今のリスク情勢を理解する - そしてIRが涙して喜ぶこの実践ベスト3とは 中津留勇(セキュアワークス)・根岸征史(IIJ)・岡田良太郎 
     * Hardening Session!!
 * [registration doorkeeper.jp](https://owasp.doorkeeper.jp/events/116127)
 * [registration meetup.com](https://www.meetup.com/ja-JP/japan-owasp-meetup-group/events/275535039/)
