@@ -15,7 +15,7 @@
 
 * イベント参加登録 
    * [doorkeeper](https://owasp.doorkeeper.jp/)
-   * [Meetup](https://www.meetup.com/japan-owasp-meetup-group/) * in the future...?
+   * [Meetup](https://www.meetup.com/japan-owasp-meetup-group/)
    
 * SNS
   * [Facebook](https://www.facebook.com/owaspjapan/)
