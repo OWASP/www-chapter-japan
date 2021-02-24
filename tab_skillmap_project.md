@@ -99,5 +99,5 @@ Webアプリケーション/Webシステムに対する脆弱性診断を行う�
 
 ## Download
 ### 2016年4月19日リリース版
-* [スキルマップ＆シラバスについて(PDF)](https://www.owasp.org/images/9/90/About-Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
-* [スキルマップ＆シラバス(PDF)](https://www.owasp.org/images/4/41/Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
+* [スキルマップ＆シラバスについて(PDF)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/About-Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
+* [スキルマップ＆シラバス(PDF)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
