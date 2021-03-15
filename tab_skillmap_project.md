@@ -12,6 +12,14 @@ tags: japan
 
 本ワーキンググループに関心のある方は Project leader: [Sen UENO](mailto:sen.ueno@owasp.org) まで
 
+# Webシステム／Webアプリケーションセキュリティ要件書
+本ワーキンググループが公開する『Webシステム／Webアプリケーションセキュリティ要件書 』ドキュメントは、Webシステム／Webアプリケーションに関して一般的に盛り込むべきと考えられるセキュリティ要件について記載しています。また、開発言語やフレームワークなどに依存することなくご利用いただけます。ただし、ネットワークやホストレベル、運用などに関するセキュリティ要件については記載していません。
+
+## Download
+### 2021年3月リリース版
+* [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.xlsx)
+* [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.pdf)
+
 # ペネトレーションテストについて
 コンピュータシステムに対して実施するセキュリティテストの1つとして「脆弱性診断」がよく知られています。「脆弱性診断」は本プロジェクトでも紹介しているような脆弱性を発見するためのセキュリティテストの手法です。
 
@@ -21,14 +29,6 @@ tags: japan
 本ドキュメントは「ペネトレーションテスト」の位置づけを明確にし、セキュリティテストを活用する組織が実施目的に合うサービスを選択できることを目的としています。
 
 * [ペネトレーションテストについて（2019年12月8日版）](https://github.com/ueno1000/about_PenetrationTest)
-
-# Webシステム／Webアプリケーションセキュリティ要件書
-本ワーキンググループが公開する『Webシステム／Webアプリケーションセキュリティ要件書 』ドキュメントは、Webシステム／Webアプリケーションに関して一般的に盛り込むべきと考えられるセキュリティ要件について記載しています。また、開発言語やフレームワークなどに依存することなくご利用いただけます。ただし、ネットワークやホストレベル、運用などに関するセキュリティ要件については記載していません。
-
-## Download
-### 2021年3月リリース版
-* [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements3.1.xlsx)
-* [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements3.1.pdf)
 
 # Webアプリケーション脆弱性診断ガイドライン
 Webアプリケーションの脆弱性診断は、自動診断ツールを使った脆弱性診断だけでは十分な診断結果が得られないと本プロジェクトでは考えており、そのため手動診断補助ツールを使った手動診断を併用することが望ましいとしています。しかし、手動診断は脆弱性診断士の経験やスキルによる診断能力の差違があります。そこで本プロジェクトでは、最低限必要な診断項目や手順を定義することで、一定レベルの手動診断による脆弱性診断を行うことができる「Webアプリケーション脆弱性診断ガイドライン」（以下、本ガイドライン）を作成し公開します。
