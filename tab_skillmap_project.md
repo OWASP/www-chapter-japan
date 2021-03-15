@@ -16,7 +16,7 @@ tags: japan
 本ワーキンググループが公開する『Webシステム／Webアプリケーションセキュリティ要件書 』ドキュメントは、Webシステム／Webアプリケーションに関して一般的に盛り込むべきと考えられるセキュリティ要件について記載しています。また、開発言語やフレームワークなどに依存することなくご利用いただけます。ただし、ネットワークやホストレベル、運用などに関するセキュリティ要件については記載していません。
 
 ## Download
-### 2021年3月リリース版
+### Ver.3.1 （2021年3月リリース版）
 * [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.xlsx)
 * [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.pdf)
 
