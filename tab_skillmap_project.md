@@ -26,6 +26,7 @@ Webシステム／Webアプリケーションセキュリティ要件書（以�
 
 ## Download
 ### Ver.3.1 （2021年3月リリース版）
+* [Webシステム／Webアプリケーションセキュリティ要件書について](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/about_OWASP_WebApplicationSecurityRequirements.pdf)
 * [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.xlsx)
 * [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.pdf)
 
