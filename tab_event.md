@@ -10,8 +10,15 @@ tags: japan
 # イベント
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 
-## [NEW] WASNight 2021 Kick-off! (OWASP Night x WASForum = WASNight)
-* 2021-01-15 (maybe)
+## スピーカー募集（常時）
+アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。もしスピーカーになることにご関心のある方、またそのような方をご存知の方は、お気軽に riotaro at owasp.org までお知らせください。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。
+
+If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome.
+
+## 終了したイベント / Closed Event
+
+### WASNight 2021 Kick-off! (OWASP Night x WASForum = WASNight)
+* 2021-01-15
 * 18:30-20:00 OWASP Session
     * MC: 岡田良太郎・根岸征史
     * BUILDERS': いまさら聞けないApache Guacamole 安田真悟(NICT)
@@ -21,14 +28,6 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
     * Hardening Session!!
 * [registration doorkeeper.jp](https://owasp.doorkeeper.jp/events/116127)
 * [registration meetup.com](https://www.meetup.com/ja-JP/japan-owasp-meetup-group/events/275535039/)
-
-## スピーカー募集（常時）
-アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。もしスピーカーになることにご関心のある方、またそのような方をご存知の方は、お気軽に riotaro at owasp.org までお知らせください。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。
-
-If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome.
-
-
-## 終了したイベント / Closed Event
 
 ### Hardening 2020 H3DX (OWASP Japan supported Hardening Project)
 * 2020-11-13,14
