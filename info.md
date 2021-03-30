@@ -1,9 +1,3 @@
-### ボランティア募集！ 
-* 翻訳/日本語編集[OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja)
-* イベント登壇して経験を共有しよう！[イベントページ](https://owasp.org/www-chapter-japan/#div-event)
-* コミュニティ運営、イベント運営ボランティアにご関心のある方は、ぜひお声がけください。
-* OWASP Japan Slackへご参加いただいてお声がけくださればうれしいです。
-
 ### ドキュメントショートカット
 * [OWASP ASVS 4.0 日本語版](https://github.com/owasp-ja/asvs-ja)
 * [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
