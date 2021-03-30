@@ -7,7 +7,8 @@
 
 ### 日本語提供
 * [JPCERT/CCより： OWASPアプリケーションセキュリティ検証標準(ASVS)3.0 日本語提供](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
-* [JPCERT/CCより： Cheatsheet日本語訳](http://jpcertcc.github.io/OWASPdocuments/)
+* [JPCERT/CCより： Cheatsheet日本語](http://jpcertcc.github.io/OWASPdocuments/)
+* [JPCERT/CCより： ソフトウェアセキュリティ成熟度モデル OWASP SAMM1.0日本語](https://www.jpcert.or.jp/research/2010/SAMM_20100407.pdf)
 
 ### Japan Chapter Links
 * [Youtube OWASP Japan channel](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
