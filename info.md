@@ -1,8 +1,13 @@
-### ドキュメントショートカット
-* [OWASP ASVS 4.0 日本語版](https://github.com/owasp-ja/asvs-ja)
-* [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
+### Githubレポジトリ
+* [OWASP ASVS 4.0 日本語](https://github.com/owasp-ja/asvs-ja)
+* [OWASPトップ10 2017日本語](https://github.com/owasp-ja/Top10/blob/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
+* [OWASP Proactive Controls 2018日本語](https://github.com/owasp-ja/OWASP-Top10-Proactive-Controls-2018-JP)
 * [Mobile ASVS日本語](https://github.com/OWASP/owasp-masvs/blob/master/Document-ja/0x02-Frontispiece.md)
-* [開発者のためのOWASPチートシート(英語)](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
+* [開発者のためのOWASPチートシート一覧表](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
+
+### 日本語提供
+* [JPCERT/CCより： OWASPアプリケーションセキュリティ検証標準(ASVS)3.0 日本語提供](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
+* [JPCERT/CCより： Cheatsheet日本語訳](http://jpcertcc.github.io/OWASPdocuments/)
 
 ### Japan Chapter Links
 * [Youtube OWASP Japan channel](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
