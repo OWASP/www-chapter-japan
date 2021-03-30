@@ -4,6 +4,7 @@
 * [OWASP Proactive Controls 2018日本語](https://github.com/owasp-ja/OWASP-Top10-Proactive-Controls-2018-JP)
 * [Mobile ASVS日本語](https://github.com/OWASP/owasp-masvs/blob/master/Document-ja/0x02-Frontispiece.md)
 * [開発者のためのOWASPチートシート一覧表](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
+* [このサイトのGithubリポジトリ](https://github.com/OWASP/www-chapter-japan)
 
 ### 日本語提供
 * [JPCERT/CCより： OWASPアプリケーションセキュリティ検証標準(ASVS)3.0 日本語提供](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
@@ -27,3 +28,4 @@
 * Useful Calendars
   * [Google Calendar: OWASP JAPAN](https://calendar.google.com/calendar/b/1?cid=MGViaHU2dm5zdDYyOXMwM2lxMzR0NHZqbThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [Google Calendar: OWASP Event](https://calendar.google.com/calendar/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo%40group.calendar.google.com)
+
