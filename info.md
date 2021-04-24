@@ -12,10 +12,13 @@
 * [JPCERT/CCより： ソフトウェアセキュリティ成熟度モデル OWASP SAMM1.0日本語](https://www.jpcert.or.jp/research/2010/SAMM_20100407.pdf)
 
 ### Japan Chapter Links
-* [Youtube OWASP Japan channel](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
+* [Japan Chapter メーリングリスト Google Groups](https://groups.google.com/a/owasp.org/g/japan-chapter)
+* [OWASP Japan Slack](https://owaspjapan.slack.com)
 
-* イベント参加登録 
+* イベント参加
+   * [Youtube OWASP Japan channel](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
    * [doorkeeper](https://owasp.doorkeeper.jp/)
+ 
    * [Meetup](https://www.meetup.com/japan-owasp-meetup-group/)
    
 * SNS
