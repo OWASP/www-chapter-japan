@@ -15,6 +15,12 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
 
 If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome.
 
+### OWASP FUKUSHIMA (Privacy x Security by Designを考える）
+* 2021-04-24
+* 17:30-19:30 
+* [registration compass](https://owasp-fukushima.connpass.com/event/209957/)
+* [OWASP FUKUSHIMA chapter](https://owasp.org/www-chapter-fukushima/)
+
 ## 終了したイベント / Closed Event
 
 ### WASNight 2021 Kick-off! (OWASP Night x WASForum = WASNight)
