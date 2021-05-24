@@ -108,6 +108,7 @@ Webアプリケーション/Webシステムに対する脆弱性診断を行う�
 システムのプラットフォーム部分に対する脆弱性診断を行う者が対象です。対象者像としては、システムのプラットフォーム部分の脆弱性診断を必要とする者、システムのプラットフォームの構築者、運用者を想定しています。
 
 ## Download
-### 2016年4月19日リリース版
-* [スキルマップ＆シラバスについて(PDF)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/About-Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
-* [スキルマップ＆シラバス(PDF)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Pentester-Platform-Skillmap_and_Syllabus-201604.pdf)
+### 2021年5月リリース版
+* [スキルマップ＆シラバス(PDF)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Pentester-Platform-Skillmap_and_Syllabus-2021.pdf)
+* [スキルマップ＆シラバス(EXCEL)](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Pentester-Platform-Skillmap_and_Syllabus-2021.xlsx)
+* [スキルマップ＆シラバスについて](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/About-Skillmap_and_Syllabus.md)
