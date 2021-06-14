@@ -41,3 +41,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
   * これには費用はかかりませんが、大学での授業への活用を推進することなどによる連携となります。
   * ご関心のある方はご相談ください。
  
+##  Upcoming Meetings
+
+{% include chapter_events.html group=page.meetup-group %}
