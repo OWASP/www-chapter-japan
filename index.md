@@ -6,6 +6,7 @@ tags: japan
 level: 0
 region: Asia
 country: Japan
+meetup-group: japan-owasp-meetup-group
 
 ---
 
