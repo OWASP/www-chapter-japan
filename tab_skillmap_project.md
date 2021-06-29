@@ -44,6 +44,14 @@ Webシステム／Webアプリケーションセキュリティ要件書（以�
 * [ペネトレーションテストについて（2019年12月8日版）](https://github.com/ueno1000/about_PenetrationTest)
 
 ---
+# 脆弱性情報開示のためのチートシート
+このドキュメントは[Vulnerability Disclosure \- OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html)の日本語訳です。
+
+セキュリティ研究者と組織の両方に**脆弱性の公開プロセスに関するガイダンス**を提供することを目的としています。
+
+* [Vulnerability Disclosure \- OWASP Cheat Sheet Seriesの日本語訳](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Vulnerability_Disclosure_Cheat_Sheet_ja.md)
+
+---
 # Webアプリケーション脆弱性診断ガイドライン
 Webアプリケーションの脆弱性診断は、自動診断ツールを使った脆弱性診断だけでは十分な診断結果が得られないと本プロジェクトでは考えており、そのため手動診断補助ツールを使った手動診断を併用することが望ましいとしています。しかし、手動診断は脆弱性診断士の経験やスキルによる診断能力の差違があります。そこで本プロジェクトでは、最低限必要な診断項目や手順を定義することで、一定レベルの手動診断による脆弱性診断を行うことができる「Webアプリケーション脆弱性診断ガイドライン」（以下、本ガイドライン）を作成し公開します。
 
