@@ -42,5 +42,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
   * ご関心のある方はご相談ください。
  
 ##  Upcoming Meetings
+#### OWASP Japan is celebrating OWASP's 20th Anniversary Event!お早めにお申し込み(無料)ください。
+[![OWASP 20th Anniversary Image](assets/images/OWASP20thAnniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 {% include chapter_events.html group=page.meetup-group %}
