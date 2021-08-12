@@ -16,6 +16,12 @@ Webシステム／Webアプリケーションセキュリティ要件書は、�
 
 本ドキュメントは、セキュリティ要件としての利用しやすさを優先して記載しているため、一般的であろうというシステムを想定し、例外の記載を少なくしたセキュリティ要件となっています。そのため具体的な数値や対策を指定していることもありますが、要件定義書に記載する内容は開発者と折衝してください。
 
+## Download
+### Ver.3.1 （2021年3月リリース版）
+* [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.xlsx)
+* [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.pdf)
+
+
 ## 脆弱性診断士スキルマッププロジェクトについて
 特定非営利活動法人日本ネットワークセキュリティ協会の日本セキュリティオペレーション事業者協議会のセキュリティオペレーションガイドラインWG（WG1）と、OWASP Japan主催の共同ワーキンググループです。
 
