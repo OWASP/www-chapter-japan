@@ -1,7 +1,7 @@
 # Webシステム／Webアプリケーションセキュリティ要件書
 OWASP Web Application Security Requirements
 
-by [脆弱性診断士スキルマッププロジェクト](https://owasp.org/www-chapter-japan/#div-skillmap_project)
+by [脆弱性診断士スキルマッププロジェクト](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project)
 
 ## 本ドキュメントについて
 Webシステム／Webアプリケーションセキュリティ要件書は、安全なWebアプリケーションの開発に必要なセキュリティ要件書です。発注者、開発者、テスト実施者、セキュリティ専門家、消費者が活用することで、以下のことを達成することを目的としています。
