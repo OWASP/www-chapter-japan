@@ -13,6 +13,11 @@ tags: japan
 本ワーキンググループに関心のある方は Project leader: [Sen UENO](mailto:sen.ueno@owasp.org) まで
 
 ---
+# 脆弱性診断士倫理綱領
+[脆弱性診断士スキルマッププロジェクト](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project)では「脆弱性診断士倫理綱領」を制定し、脆弱性診断士の行動規範を示すこととしました。
+* [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md)
+
+---
 # Webシステム／Webアプリケーションセキュリティ要件書
 Webシステム／Webアプリケーションセキュリティ要件書（以下、本ドキュメント）は、安全なWebアプリケーションの開発に必要なセキュリティ要件書です。発注者、開発者、テスト実施者、セキュリティ専門家、消費者が活用することで、以下のことを達成することを目的としています。
 * 開発会社・開発者に安全なWebシステム／Webアプリケーションを開発してもらうこと
