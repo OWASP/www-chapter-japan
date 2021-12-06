@@ -1,11 +1,16 @@
 * [このサイトのGithubリポジトリ](https://github.com/OWASP/www-chapter-japan)
 
 ### 日本語リソース
-* [OWASP ASVS 4.0 日本語](https://github.com/owasp-ja/asvs-ja)
-* [OWASPトップ10 2017日本語](https://github.com/owasp-ja/Top10/blob/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
+* [OWASPトップ10 2021日本語](https://github.com/owasp-ja/Top10/blob/master/2021/docs/index.ja.md)
+
 * [OWASP Proactive Controls 2018日本語](https://github.com/owasp-ja/OWASP-Top10-Proactive-Controls-2018-JP)
+* [OWASP ASVS 4.0 日本語](https://github.com/owasp-ja/asvs-ja)
+
 * [Mobile ASVS日本語](https://github.com/OWASP/owasp-masvs/blob/master/Document-ja/0x02-Frontispiece.md)
+
 * [開発者のためのOWASPチートシート一覧表](https://docs.google.com/spreadsheets/d/1KNsAK1QbGih3WvmeTNeX5dj3_H1IHJTXrr98ZbFZZkg/edit#gid=0)
+
+### 旧バージョンのドキュメント
 * [JPCERT/CCより： OWASPアプリケーションセキュリティ検証標準(ASVS)3.0 日本語提供](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
 * [JPCERT/CCより： Cheatsheet日本語](http://jpcertcc.github.io/OWASPdocuments/)
 * [JPCERT/CCより： ソフトウェアセキュリティ成熟度モデル OWASP SAMM1.0日本語](https://www.jpcert.or.jp/research/2010/SAMM_20100407.pdf)
