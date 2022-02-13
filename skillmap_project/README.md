@@ -54,6 +54,8 @@ Webアプリケーションの脆弱性診断は、自動診断ツールを使�
 本ガイドラインは「脆弱性診断士」における「脆弱性診断士（Webアプリケーション）」区分における「Silver」ランクで要求される内容としています。
 
 ## Download
+GitHubリポジトリを[ueno1000 \(Sen UENO\)](https://github.com/ueno1000/WebAppPentestGuidelines/)配下から [WebAppPentestGuidelines/WebAppPentestGuidelines: Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)に移行しました（2022/2/13）
+
 ### 2018年5月18日リリース版
 * [Webアプリケーション脆弱性診断ガイドライン（EXCEL版）](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/WebAppPentestGuidelines.xlsx)
 * [Webアプリケーション脆弱性診断ガイドライン（PDF版）](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/WebAppPentestGuidelines.pdf)
