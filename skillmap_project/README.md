@@ -63,6 +63,12 @@ GitHubリポジトリを[ueno1000 \(Sen UENO\)](https://github.com/ueno1000/WebA
 * [Webアプリケーション脆弱性診断ガイドライン利用のためのドキュメント](https://docs.google.com/document/d/1-eZqWf2TqfEwc9f-OZr6bY24VjvNMUwS9zzAejpZQ64/)
 * [ガイドラインを使いこなすためのリンク集](https://github.com/ueno1000/WebAppPentestGuidelines)
 
+
+## GraphQL 脆弱性診断ガイドライン
+特定非営利活動法人日本ネットワークセキュリティ協会の日本セキュリティオペレーション事業者協議会のセキュリティオペレーションガイドラインWG（WG1）「新技術に対する診断手法分科会」によって『GraphQL 脆弱性診断ガイドライン』が公開されました。
+
+* [GraphQL 脆弱性診断ガイドライン（2021年12月24日公開）](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
+
 ---
 # 脆弱性診断士スキルマップ＆シラバス
 
