@@ -54,15 +54,7 @@ Webアプリケーションの脆弱性診断は、自動診断ツールを使�
 本ガイドラインは「脆弱性診断士」における「脆弱性診断士（Webアプリケーション）」区分における「Silver」ランクで要求される内容としています。
 
 ## Download
-GitHubリポジトリを[ueno1000 \(Sen UENO\)](https://github.com/ueno1000/WebAppPentestGuidelines/)配下から [WebAppPentestGuidelines/WebAppPentestGuidelines: Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)に移行しました（2022/2/13）
-
-### 2018年5月18日リリース版
-* [Webアプリケーション脆弱性診断ガイドライン（EXCEL版）](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/WebAppPentestGuidelines.xlsx)
-* [Webアプリケーション脆弱性診断ガイドライン（PDF版）](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/WebAppPentestGuidelines.pdf)
-* [Webアプリケーション脆弱性診断ガイドラインについて](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/about_WebAppPentestGuidelines.pdf)
-* [Webアプリケーション脆弱性診断ガイドライン利用のためのドキュメント](https://docs.google.com/document/d/1-eZqWf2TqfEwc9f-OZr6bY24VjvNMUwS9zzAejpZQ64/)
-* [ガイドラインを使いこなすためのリンク集](https://github.com/ueno1000/WebAppPentestGuidelines)
-
+* [第1.2版 (2022年3月1日リリース版)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/tree/master/WebAppPentestGuidelines)
 
 ## GraphQL 脆弱性診断ガイドライン
 特定非営利活動法人日本ネットワークセキュリティ協会の日本セキュリティオペレーション事業者協議会のセキュリティオペレーションガイドラインWG（WG1）「新技術に対する診断手法分科会」によって『GraphQL 脆弱性診断ガイドライン』が公開されました。
