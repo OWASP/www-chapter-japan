@@ -45,6 +45,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
   * ご関心のある方はご相談ください。
  
 ##  Upcoming Meetings
-#### 2022/1/14 [WASNight 2022 Kick-off](https://owasp.doorkeeper.jp/events/131750)
+#### 2022/5/11 [OWASP Night 2022/05](https://owasp.doorkeeper.jp/events/136795)
 
-{% include chapter_events.html group=page.meetup-group %}
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
