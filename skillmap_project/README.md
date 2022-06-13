@@ -104,9 +104,9 @@ Gold ランクの者から指導を受けた上で診断サービスを提供す
 Webアプリケーション/Webシステムに対する脆弱性診断を行う者が対象です。対象者像としては、Webアプリケーション/Webシステムの脆弱性診断を必要とする者、Webアプリケーション/Webシステムの開発者、運用者を想定しています。
 
 ## Download
-### 2018年5月18日リリース版
-* [スキルマップ＆シラバスについて(PDF)](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/About-Pentester-Web-Skillmap_and_Syllabus.pdf)
-* [スキルマップ＆シラバス(PDF)](https://github.com/ueno1000/WebAppPentestGuidelines/blob/master/Pentester-Web-Skillmap_and_Syllabus.pdf)
+### Ver.1.2 （2021年3月1日リリース）
+* [スキルマップ＆シラバスについて(PDF)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/blob/master/Pentester-Web-Skillmap_and_Syllabus/About_Pentester-Web-Skillmap_and_Syllabus.pdf)
+* [スキルマップ＆シラバス(PDF)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/blob/master/Pentester-Web-Skillmap_and_Syllabus/Pentester-Web-Skillmap_and_Syllabus.pdf)
 
 # 脆弱性診断士（プラットフォーム）スキルマップ＆シラバス
 システムのプラットフォーム部分に対する脆弱性診断を行う者が対象です。対象者像としては、システムのプラットフォーム部分の脆弱性診断を必要とする者、システムのプラットフォームの構築者、運用者を想定しています。
