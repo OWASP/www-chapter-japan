@@ -104,7 +104,7 @@ Gold ランクの者から指導を受けた上で診断サービスを提供す
 Webアプリケーション/Webシステムに対する脆弱性診断を行う者が対象です。対象者像としては、Webアプリケーション/Webシステムの脆弱性診断を必要とする者、Webアプリケーション/Webシステムの開発者、運用者を想定しています。
 
 ## Download
-### Ver.1.2 （2021年3月1日リリース）
+### Ver.1.2 （2022年3月1日リリース）
 * [スキルマップ＆シラバスについて(PDF)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/blob/master/Pentester-Web-Skillmap_and_Syllabus/About_Pentester-Web-Skillmap_and_Syllabus.pdf)
 * [スキルマップ＆シラバス(PDF)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/blob/master/Pentester-Web-Skillmap_and_Syllabus/Pentester-Web-Skillmap_and_Syllabus.pdf)
 
