@@ -3,6 +3,16 @@
 
 本ワーキンググループに関心のある方は Project leader: [Sen UENO](mailto:sen.ueno@owasp.org) まで
 
+## プロジェクトの成果物
+* [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E5%80%AB%E7%90%86%E7%B6%B1%E9%A0%98)
+* [Webシステム／Webアプリケーションセキュリティ要件書](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#web%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%A6%81%E4%BB%B6%E6%9B%B8)
+* [ペネトレーションテストについて](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E3%83%9A%E3%83%8D%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+* [脆弱性情報開示のためのチートシート](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E6%83%85%E5%A0%B1%E9%96%8B%E7%A4%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%81%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%83%88)
+* [Webアプリケーション脆弱性診断ガイドライン](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
+* [GraphQL 脆弱性診断ガイドライン](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#graphql-%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
+* [脆弱性診断士スキルマップ＆シラバス](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
+
+
 ---
 # 脆弱性診断士倫理綱領
 [脆弱性診断士スキルマッププロジェクト](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project)では「脆弱性診断士倫理綱領」を制定し、脆弱性診断士の行動規範を示すこととしました。
