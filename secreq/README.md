@@ -20,7 +20,7 @@ Webシステム／Webアプリケーションセキュリティ要件書は、�
 ### Ver.4.0 （2022年6月リリース版）
 * [Webシステム／Webアプリケーションセキュリティ要件書（EXCEL版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.xlsx)
 * [Webシステム／Webアプリケーションセキュリティ要件書（PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements.pdf)
-* [Webシステム／Webアプリケーションセキュリティ要件書 (Ver.3.1 からの差分表示 PDF版）](https://github.com/OWASP/www-chapter-japan/tree/master/secreq#:~:text=OWASP_WebApplicationSecurityRequirements_diff.pdf)
+* [Webシステム／Webアプリケーションセキュリティ要件書 (Ver.3.1 からの差分表示 PDF版）](https://github.com/OWASP/www-chapter-japan/blob/master/secreq/OWASP_WebApplicationSecurityRequirements_diff.pdf)
 
 
 ## 脆弱性診断士スキルマッププロジェクトについて
