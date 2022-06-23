@@ -44,7 +44,7 @@ Webアプリケーションの脆弱性診断は、自動診断ツールを使�
 
 本ガイドラインは「脆弱性診断士」における「脆弱性診断士（Webアプリケーション）」区分における「Silver」ランクで要求される内容としています。
 
-## Download
+## Webアプリケーション脆弱性診断ガイドライン
 * [第1.2版 (2022年3月1日リリース版)](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines/tree/master/WebAppPentestGuidelines)
 
 ## GraphQL 脆弱性診断ガイドライン
