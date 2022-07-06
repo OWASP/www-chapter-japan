@@ -12,7 +12,7 @@ In waterfall development, the project defines security requirements during the r
 
 # Table of Contents
 - **Team Building**
-1. [Role definition and appointment of security champions](#1-Role definition and appointment of security champions)
+1. [Role definition and appointment of security champions](#1. Role definition and appointment of security champions)
 2. [Team building with each person responsible for security](#2-Team building with each person responsible for security)
 3. [Establishment of rules to improve security](#3-Establishment of rules to improve security)
 4. [Training for developers to improve their security skills](#4-Training for developers to improve their security skills)
@@ -46,7 +46,6 @@ In waterfall development, the project defines security requirements during the r
 12. セキュリティの継続的向上のためのふりかえり
 
 # Team Building
-
 ## 1. Role definition and appointment of security champions
 
 ### Summary
