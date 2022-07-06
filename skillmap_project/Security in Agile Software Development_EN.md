@@ -12,21 +12,21 @@ In waterfall development, the project defines security requirements during the r
 
 # Table of Contents
 - **Team Building**
-1. [Role definition and appointment of security champions](#1. Role definition and appointment of security champions)
-2. [Team building with each person responsible for security](#2-Team building with each person responsible for security)
-3. [Establishment of rules to improve security](#3-Establishment of rules to improve security)
-4. [Training for developers to improve their security skills](#4-Training for developers to improve their security skills)
+1. [Role definition and appointment of security champions](#1-Role-definition-and-appointment-of-security-champions)
+2. [Team building with each person responsible for security](#2-Team-building-with-each-person-responsible-for-security)
+3. [Establishment of rules to improve security](#3-Establishment-of-rules-to-improve-security)
+4. [Training for developers to improve their security skills](#4-Training-for-developers-to-improve-their-security-skills)
 - **Development and project planning**
-5. [Determine security requirements for sprint deliverables](#5-Determine security requirements for sprint deliverables)
-6. [Develop risk-based vulnerability response policies](#6-Develop risk-based vulnerability response policies)
-7. [Vulnerability Triage](#7-Vulnerability Triage)
+5. [Determine security requirements for sprint deliverables](#5-Determine-security-requirements-for-sprint-deliverables)
+6. [Develop risk-based vulnerability response policies](#6-Develop-risk-based-vulnerability-response-policies)
+7. [Vulnerability Triage](#7-Vulnerability-Triage)
 - **Security Testing**
-8. [Security testing timing and policy considerations](#8-Security testing timing and policy considerations)
-9. [Formulation of test content to be conducted within the sprint](#9-Formulation of test content to be conducted within the sprint)
-10. [Vulnerability management for your environment](#10-Vulnerability management for your environment)
-11. [Automated security testing](#11-Automated security testing)
+8. [Security testing timing and policy considerations](#8-Security-testing-timing-and-policy-considerations)
+9. [Formulation of test content to be conducted within the sprint](#9-Formulation-of-test-content-to-be-conducted-within-the-sprint)
+10. [Vulnerability management for your environment](#10-Vulnerability-management-for-your-environment)
+11. [Automated security testing](#11-Automated-security-testing)
 - **Security Quality Improvement**
-12. [Reflection on Continuous Improvement of Security](#12-Reflection on Continuous Improvement of Security)
+12. [Reflection on Continuous Improvement of Security](#12-Reflection-on-Continuous-Improvement-of-Security)
 
 - **チームビルディング**
 1. セキュリティ・チャンピオンの役割定義と任命
