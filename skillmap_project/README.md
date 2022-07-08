@@ -57,6 +57,7 @@ Webシステム／Webアプリケーションセキュリティ要件書（以�
 本ドキュメントを活用して頂くことで、アジャイル開発のどの段階でどういった取り組みをすることでセキュリティを担保できるかといったヒントを得ることができます。
 
 * [アジャイル開発におけるセキュリティ | パターン・ランゲージ](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Security%20in%20Agile%20Software%20Development.md)
+* [Security in Agile Development | Pattern Language](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Security%20in%20Agile%20Software%20Development_EN.md)
 
 ---
 # Webアプリケーション脆弱性診断ガイドライン
