@@ -44,7 +44,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
    * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
 
 ###  Upcoming Meetings
-#### 2022/9/1-3 Hardening Designers Conference 2022 (collaborated event)
+#### 2022/9/1-3 Hardening Designers Conference 2022 (collaborative event)
 * [registration](https://hardening.doorkeeper.jp/events/139964)
 
 #### 2022/8/31-9/1 OWASP Global AppSec APAC 2022
