@@ -28,23 +28,22 @@ OWASP Japanチャプターは、首都圏のみならず、国内全域におけ
 [![OWASP Japan](assets/images/owasp-japan-katakana.png)](https://owasp.org/www-chapter-japan/)
 
 ## OWASP Foundation
-OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
+OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。
+これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
 #### 会員制度 OWASP.org Membership
 * [個人: 年間50ドル(グローバル)、500ドル(ライフタイム) ](https://owasp.org/membership/)
   * owasp.org メールアドレス付与
   * 会員限定のニュース配信
   * OWASPの組織の投票への参加
-  
-#### 日本のローカル・スポンサーシップ	
-   * OWASP Japan チャプター支援として一口1000ドルのご寄付などを受け付けています。
-   * これは、OWASP Foundationを通してスポンサーします。	ご関心のある方はリーダーまでお問い合わせください。
- 
-#### アカデミックサポーター制度 大学・教育機関
-  * これには費用はかかりませんが、大学での授業への活用を推進することなどによる連携となります。
-  * ご関心のある方はご相談ください。
- 
-##  Upcoming Meetings
+  * 個人会員の入会にあたり、OWASP Japanチャプターを指定することにより、サポートすることができます。
+
+#### OWASP Japan Chapter ローカル・スポンサーシップ	
+   * 1000ドルまでのご寄付を受け付けています。
+   * [OWASPへのDonation](https://owasp.org/donate/)で支払い、その後事務局に「OWASP Japan Chapterを支援したい」と伝えることで実現できます。
+   * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
+
+###  Upcoming Meetings
 #### 2022/9/1-3 Hardening Designers Conference 2022 (collaborated event)
 * [registration](https://hardening.doorkeeper.jp/events/139964)
 
@@ -53,6 +52,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 * [![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
 
 ## Chapter Supporters
-以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
+以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。個人の皆様、法人の皆様ともに、オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
 
 [<img src="https://owasp.org/assets/images/corp-member-logo/SCSK.jpeg" width="180">](https://www.scsk.jp/) [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
