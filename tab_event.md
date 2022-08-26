@@ -15,13 +15,22 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
 
 If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome.
 
+### Hardening Designers Conference 2022 (collaborated event)
+* 2022-09-01 to 09-03
+* [registration](https://hardening.doorkeeper.jp/events/139964)
+
+### OWASP Global AppSec APAC 2022 ご招待！ 
+* 2022-08-31 to 09-01
+* [landing page for the registration guide](https://owasp.doorkeeper.jp/events/141645)
+[![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
+ 
+## 終了したイベント / Closed Event
 ### OWASP Night 2022.05 OWASP Top 10 review/AppSec APAC?!  
 * 2022-05-11
 * [registration doorkeeper](https://owasp.doorkeeper.jp/events/136795)
 * [meetup.com](https://www.meetup.com/ja-JP/japan-owasp-meetup-group/)
 
- 
-## 終了したイベント / Closed Event
+
 ### WASNight 2022 Kick-off! (OWASP Night x WASForum = WASNight)
 * 2022-01-14 / 18:30-21:30
 * OWASP Session
