@@ -45,6 +45,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
   * ご関心のある方はご相談ください。
  
 ##  Upcoming Meetings
-#### 2022/5/11 [OWASP Night 2022/05](https://owasp.doorkeeper.jp/events/136795)
+#### 2022/8/31-9/1 [OWASP Global AppSec APAC 2022](https://owasp.doorkeeper.jp/events/141645)
+[![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
 
-<!-- {% include chapter_events.html group=page.meetup-group %} -->
