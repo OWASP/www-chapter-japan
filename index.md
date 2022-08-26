@@ -59,6 +59,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://owasp.org/supporters/list)
 
-[<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="200">](https://owasp.org/supporters/list)
+[<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://owasp.org/supporters/list)
 
-[<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="150">](https://owasp.org/supporters/list)
+[<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="200">](https://owasp.org/supporters/list)
