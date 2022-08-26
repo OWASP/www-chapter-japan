@@ -50,5 +50,15 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 #### 2022/8/31-9/1 OWASP Global AppSec APAC 2022
 * [landing page](https://owasp.doorkeeper.jp/events/141645)
-[![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
+* [![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
+
+## Chapter Supporters
+以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
+
+[<img src="https://owasp.org/assets/images/corp-member-logo/SCSK.jpeg" width="200">](https://owasp.org/supporters/list)
+
+[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://owasp.org/supporters/list)
+
+[<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="200">](https://owasp.org/supporters/list)
+
 
