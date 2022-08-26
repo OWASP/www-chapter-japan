@@ -45,6 +45,10 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
   * ご関心のある方はご相談ください。
  
 ##  Upcoming Meetings
+### Hardening Designers Conference 2022 (collaborated event)
+* 2022-09-01 to 09-03
+* [registration](https://hardening.doorkeeper.jp/events/139964)
+
 #### 2022/8/31-9/1 [OWASP Global AppSec APAC 2022](https://owasp.doorkeeper.jp/events/141645)
 [![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
 
