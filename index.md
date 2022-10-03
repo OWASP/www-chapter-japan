@@ -44,12 +44,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
    * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
 
 ###  Upcoming Meetings
-#### 2022/9/1-3 Hardening Designers Conference 2022 (collaborative event)
-* [registration](https://hardening.doorkeeper.jp/events/139964)
-
-#### 2022/8/31-9/1 OWASP Global AppSec APAC 2022
-* [landing page](https://owasp.doorkeeper.jp/events/141645)
-* [![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
+ * OWASP Top 10輪読会を展開しています。 See [イベント](https://owasp.org/www-chapter-japan/#div-event)
 
 ## Chapter Supporters
 以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。個人の皆様、法人の皆様ともに、オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
