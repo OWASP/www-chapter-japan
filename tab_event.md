@@ -9,11 +9,23 @@ tags: japan
 
 # イベント
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
+主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ]()でお申し込みになれます。
 
-## スピーカー募集（常時）
-アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。もしスピーカーになることにご関心のある方、またそのような方をご存知の方は、お気軽に riotaro at owasp.org までお知らせください。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。
+### オワスプナイト2022/10 - OWASP Top 10 A01:2021 – アクセス制御の不備
+* 2022-10-14 
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/143853)
 
-If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome.
+
+### スピーカー・出演者 募集（常時）
+> アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。 もしスピーカーになることにご関心のある方、イベント参加申し込み時に、あるいは個別にチャプターリーダーまでご提案をお知らせください。。
+> 
+> If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org.
+
+## 終了したイベント / Closed Event
+
+### オワスプナイト2022/09 - OWASP Top 10 A01:2021 – アクセス制御の不備
+* 2022-09-21 
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/143310)
 
 ### Hardening Designers Conference 2022 (collaborative event)
 * 2022-09-01 to 09-03
@@ -24,7 +36,6 @@ If you are willing to give a speech to share your experiences, research, or othe
 * [landing page for the registration guide](https://owasp.doorkeeper.jp/events/141645)
 [![OWASP Global AppSec APAC 2022、ご招待](https://owasp.org/assets/images/APAC_Banner_810x400.jpeg)](https://owasp.doorkeeper.jp/events/141645)
  
-## 終了したイベント / Closed Event
 ### OWASP Night 2022.05 OWASP Top 10 review/AppSec APAC?!  
 * 2022-05-11
 * [registration doorkeeper](https://owasp.doorkeeper.jp/events/136795)
