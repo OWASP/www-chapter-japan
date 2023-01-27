@@ -9,11 +9,11 @@ tags: japan
 
 # イベント
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
-主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ]()でお申し込みになれます。
+主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://manage.doorkeeper.jp/groups/owasp)でお申し込みになれます。
 
-### オワスプナイト2022/10 - OWASP Top 10 A01:2021 – アクセス制御の不備
-* 2022-10-14 
-* [registration doorkeeper](https://owasp.doorkeeper.jp/events/143853)
+### WASNight 2023 Kick-off 2023/2 
+* 2023-02-13
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/150347)
 
 
 ### スピーカー・出演者 募集（常時）
@@ -22,6 +22,10 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
 > If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org.
 
 ## 終了したイベント / Closed Event
+
+### オワスプナイト2022/10 - OWASP Top 10 A02:2021 – 暗号化の失敗
+* 2022-10-14 
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/143853)
 
 ### オワスプナイト2022/09 - OWASP Top 10 A01:2021 – アクセス制御の不備
 * 2022-09-21 
