@@ -11,7 +11,7 @@ tags: japan
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://manage.doorkeeper.jp/groups/owasp)でお申し込みになれます。
 
-### WASNight 2023 Kick-off 2023/2 
+### WASNight 2023 Kick-off 2023/2 (OWASP Night x WASForum = WASNight)
 * 2023-02-13
 * [registration doorkeeper](https://owasp.doorkeeper.jp/events/150347)
 
