@@ -1,6 +1,8 @@
 * [このサイトのGithubリポジトリ](https://github.com/OWASP/www-chapter-japan)
 
 ### 日本語リソース
+* [OWASPトップ10 for LLM日本語](https://github.com/owasp-ja/Top10-for-LLM/tree/main)
+
 * [OWASPトップ10 2021日本語](https://github.com/owasp-ja/Top10/blob/master/2021/docs/index.ja.md)
 
 * [OWASP Proactive Controls 2018日本語](https://github.com/owasp-ja/OWASP-Top10-Proactive-Controls-2018-JP)
