@@ -11,10 +11,7 @@ tags: japan
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://manage.doorkeeper.jp/groups/owasp)でお申し込みになれます。
 
-### WASNight 2023 Kick-off 2023/2 (OWASP Night x WASForum = WASNight)
-* 2023-02-13
-* [registration doorkeeper](https://owasp.doorkeeper.jp/events/150347)
-
+そろそろやりたいですね！ 会場提供を募集しています！
 
 ### スピーカー・出演者 募集（常時）
 > アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。 もしスピーカーになることにご関心のある方、イベント参加申し込み時に、あるいは個別にチャプターリーダーまでご提案をお知らせください。。
@@ -22,6 +19,17 @@ OWASP Japanチャプターが主催/共催/協力するイベントを記載し�
 > If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org.
 
 ## 終了したイベント / Closed Event
+### Hardening 2023 Generatives (Collaboration Event)
+* 2023-10-04 to 10-28
+* [Hardening 2023 Generatives](https://wasforum.jp/2023/07/hardening-2023-generatives/)
+
+### Hardening Designers Conference 2023 (Collaboration Event)
+* 2023-05-18
+* [registration doorkeeper](https://hardening.doorkeeper.jp/events/155369)
+
+### WASNight 2023 Kick-off 2023/2 (OWASP Night x WASForum = WASNight)
+* 2023-02-13
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/150347)
 
 ### オワスプナイト2022/10 - OWASP Top 10 A02:2021 – 暗号化の失敗
 * 2022-10-14 
