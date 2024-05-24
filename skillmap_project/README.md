@@ -12,6 +12,7 @@
 * [Webアプリケーション脆弱性診断ガイドライン](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
 * [GraphQL 脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
+* [脆弱性トリアージガイドライン作成の手引き](https://github.com/WebAppPentestGuidelines/TriageGuidelines/tree/main)
 * [脆弱性診断士スキルマップ＆シラバス](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
 
 
@@ -79,6 +80,12 @@ Webアプリケーションの脆弱性診断は、自動診断ツールを使�
 本ドキュメントは、クロスサイトスクリプティングやSQL Injectionなどの著名な脆弱性をあえてスコープから外し、TOCTOUやクラウドサービスにおける誤った実装・設定不備など、メンバーが思い思いの脆弱性について記載したドキュメントとなります。
 
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
+
+---
+# 脆弱性トリアージガイドライン作成の手引き
+本ドキュメントは「**組織が脆弱性に適切に対応することを目的として、脆弱性診断を実施した際に提供された報告書に記載された脆弱性対応の優先順位付け（トリアージ）を行うために、その組織に適したトリアージガイドラインを作成するための手引き**」です。
+
+* [脆弱性トリアージガイドライン作成の手引き](https://github.com/WebAppPentestGuidelines/TriageGuidelines/tree/main)
 
 ---
 # 脆弱性診断士スキルマップ＆シラバス
