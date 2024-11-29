@@ -49,4 +49,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 ## Chapter Supporters
 以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。個人の皆様、法人の皆様ともに、オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
 
-[<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/) [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
+- [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/) 
+- [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) 
+- [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) 
+- [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
