@@ -9,16 +9,35 @@ tags: japan
 
 # イベント
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
-主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://manage.doorkeeper.jp/groups/owasp)でお申し込みになれます。
+主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://owasp.doorkeeper.jp/)でお申し込みになれます。
 
-そろそろやりたいですね！ 会場提供を募集しています！
+## オワスプナイト 2025/01
+* 2025-01-15 18:00オープン / 18:30スタート at SCSKセキュリティ(豊洲)
+* [OWASP Night 2025](https://owasp.doorkeeper.jp/ ) 詳細はcoming soon
 
 ### スピーカー・出演者 募集（常時）
 > アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。 もしスピーカーになることにご関心のある方、イベント参加申し込み時に、あるいは個別にチャプターリーダーまでご提案をお知らせください。。
 > 
 > If you are willing to give a speech to share your experiences, research, or other stories related to the security development and operation of applications and systems, even a short speech is welcome. Mobile, APIs, Clouds, DevOps, agile security implementation, etc. are also welcome. If you are interested in becoming a speaker, or know someone who is, please feel free to let us know at riotaro at owasp.org.
 
+
 ## 終了したイベント / Closed Event
+### Hardening 2024 Convolutions (Collaboration Event)
+* 2024-10-16 to 10-18
+* [Hardening 2024 Convolutions](https://wasforum.jp/2024/07/hardening-2024-convolutions-release/)
+
+### Hardening Designers Conference 2024 (Collaboration Event)
+* 2024-07-04 to 07-06
+* [registration doorkeeper](https://wasforum.jp/2024/06/hardening-designers-conference-2024-convolutions/)
+
+### Hardening 2024 First Attack! 〜 Micro Hardening & Meetup
+* 2024-05-23 to 05-24
+* [registration doorkeeper](https://hardening.doorkeeper.jp/events/172750)
+
+### 2024年！セキュリティにAiはあるのかい？ / WASNight 2024 Kick-Off = OWASP x Hardening Night
+* 2024-01-05 
+* [registration doorkeeper](https://owasp.doorkeeper.jp/events/167599)
+
 ### Hardening 2023 Generatives (Collaboration Event)
 * 2023-10-04 to 10-28
 * [Hardening 2023 Generatives](https://wasforum.jp/2023/07/hardening-2023-generatives/)
