@@ -44,9 +44,9 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
    * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
 
 ###  Upcoming Meetings
- * OWASP Top 10輪読会を展開しています。 See [イベント](https://owasp.org/www-chapter-japan/#div-event)
+ * オワスプナイト 2025/01開催します：See [イベント](https://owasp.org/www-chapter-japan/#div-event)
 
 ## Chapter Supporters
 以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。個人の皆様、法人の皆様ともに、オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
 
-[<img src="https://owasp.org/assets/images/corp-member-logo/SCSK.jpeg" width="180">](https://www.scsk.jp/) [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
+[<img src="https://owasp.org/assets/images/corp-member-logo/SCSK.jpeg" width="180">](https://scsksecurity.co.jp/) [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
