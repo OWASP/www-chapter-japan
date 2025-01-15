@@ -16,13 +16,25 @@ OWASP - Open Worldwide Application Security Project とは、Webをはじめと�
 
 OWASP Japanチャプターは、首都圏のみならず、国内全域における、チャプター設立支援や、特にチャプターのない地域での普及啓発など全国でのセキュリティ啓発活動を行なっています。また、全国でお使いになれる成果物、すなわち各種翻訳プロジェクトなど、グローバルのOWASPコミュニティと連携しています。成果物は、政府・行政機関、教育機関、企業・団体などで活用いただいています。OWASP Japanには、どの地域にお住まいの方もご参加いただけます。
 
+### イベント
+OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
+主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://owasp.doorkeeper.jp/)でお申し込みになれます。
+
+#### WASNight 2025 Kick-Off (Collaboration Event)
+* 2025-01-28 18:00オープン / 18:30スタート at 渋谷カルチャーカルチャー
+* [WASNight Kick-Off 2025 ハードニング・トークライブ](https://hardening.doorkeeper.jp/events/180356)
+
+#### オワスプナイト 2025/01
+* 2025-01-15 18:00オープン / 18:30スタート at SCSKセキュリティ(豊洲)
+* [OWASP Night 2025](https://owasp.doorkeeper.jp/events/180284)
+
 #### OWASP Japanに参加するには
 * OWASPが主催・参画するイベントに参加。３ヶ月程度の頻度でOWASP Night/Dayや関連イベントを開催しています。
 * SNS: twitter, facebookなどのSNSにもOWASP Japanアカウントがありますのでぜひからんでください。
 * 翻訳/日本語編集[OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja) に参加。プルリクをお願いします。
-* 発信： 誰でも初めてのスピーチというものがあります。ぜひ経験を共有！[イベントページ](https://owasp.org/www-chapter-japan/#div-event)
 * 裏方： コミュニティ運営、イベント運営ボランティア。宣伝活動を他のイベントで行うこともあります。
 * わいわい： OWASP Slack、またOWASP Japan Slackへご参加いただいてお声がけくださればうれしいです。(招待しますのでメールアドレスをお教えください）
+* スピーカー・出演者 募集（常時）：アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。 もしスピーカーになることにご関心のある方、イベント参加申し込み時に、あるいは個別にチャプターリーダーまでご提案をお知らせください。
 
 #### OWASP Japan logo
 [![OWASP Japan](assets/images/owasp-japan-katakana.png)](https://owasp.org/www-chapter-japan/)
@@ -32,24 +44,30 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
 #### 会員制度 OWASP.org Membership
-* [個人: 年間50ドル(グローバル)、500ドル(ライフタイム) ](https://owasp.org/membership/)
-  * owasp.org メールアドレス付与
-  * 会員限定のニュース配信
-  * OWASPの組織の投票への参加
-  * 個人会員の入会にあたり、OWASP Japanチャプターを指定することにより、サポートすることができます。
+* [個人: 年間50ドル(グローバル)、あるいは500ドル(ライフタイム) ](https://owasp.glueup.com/organization/6727/memberships/)
+  個人会員の特典
 
-#### OWASP Japan Chapter ローカル・スポンサーシップ	
-   * 1000ドルまでのご寄付を受け付けています。
-   * [OWASPへのDonation](https://owasp.org/donate/)で支払い、その後事務局に「OWASP Japan Chapterを支援したい」と伝えることで実現できます。
-   * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
+  * OWASPのミッションへの継続的な支援
+  * カンファレンスおよびトレーニングの参加費の割引
+  * OWASPの選挙での投票
+  * owasp.orgのメールアドレスの無料提供
+  * 助成金、賞、奨学金への優先的なアクセス
+  * トレーニングの割引およびオファーへの優先的なアクセス
+  * 割引価格でのパートナーイベントへの参加
+  * OWASPの学習プラットフォームへのアクセス（OWASPプロジェクト、スポンサーおよびパートナーからの商業的なオファーを含むパートナーが提供する会員特典へのアクセス
+  * その他多数
+  * 入会にあたり、OWASP Japanチャプターを指定していただきますとこのチャプターの予算をサポートすることができます！
 
-###  Upcoming Meetings
- * オワスプナイト 2025/01開催します：See [イベント](https://owasp.org/www-chapter-japan/#div-event)
 
 ## Chapter Supporters
-以下の企業は、チャプタースポンサーとして、あるいは、[OWASP Corporate Membership](https://owasp.org/supporters/list) においてOWASP Japan Chapterを支援することを宣言してくださっています。個人の皆様、法人の皆様ともに、オワスプジャパンチャプターを力強くサポートしてくださり、ありがとうございます。
+以下の企業は、チャプタースポンサーとしてOWASP Japan Chapterを支援していただいています。個人の皆様、法人の皆様ともに、オワスプジャパンを力強くサポートしてくださり、ありがとうございます。
 
-- [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/) 
-- [<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) 
-- [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) 
-- [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)
+|サポートしてくださっている企業|||
+|----|----|----|
+| [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/)|[<img src="https://owasp.org/www-chapter-japan/assets/images/Cybozu.png" width="200">](https://cybozu.co.jp/en/company/)|[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) |
+| [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)|
+
+#### OWASP Japan Chapter ローカル・スポンサーシップ	
+   * 1000ドルのご寄付/1ショット/年間を受け付けています。
+   * [OWASPへのDonation](https://owasp.org/donate/)で支払い、その後OWASP Foundation事務局に「OWASP Japan Chapterを支援したい」と伝えることで実現できます。
+   * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
