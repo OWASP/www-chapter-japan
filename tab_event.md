@@ -11,9 +11,13 @@ tags: japan
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://owasp.doorkeeper.jp/)でお申し込みになれます。
 
+## WASNight 2025 Kick-Off (Collaboration Event)
+* 2025-01-28 18:00オープン / 18:30スタート at 渋谷カルチャーカルチャー
+* [WASNight Kick-Off 2025 ハードニング・トークライブ](https://hardening.doorkeeper.jp/events/180356)
+
 ## オワスプナイト 2025/01
 * 2025-01-15 18:00オープン / 18:30スタート at SCSKセキュリティ(豊洲)
-* [OWASP Night 2025](https://owasp.doorkeeper.jp/ ) 詳細はcoming soon
+* [OWASP Night 2025](https://owasp.doorkeeper.jp/events/180284)
 
 ### スピーカー・出演者 募集（常時）
 > アプリケーション、システムのセキュリティ開発・運用にかかわる、経験、リサーチなどの話を共有するスピーチをしていただける方、短いスピーチでも歓迎です。モバイル、API、クラウド、開発運用、アジャイルでのセキュリティ実装なども歓迎です。 もしスピーカーになることにご関心のある方、イベント参加申し込み時に、あるいは個別にチャプターリーダーまでご提案をお知らせください。。
