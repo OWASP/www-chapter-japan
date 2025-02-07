@@ -62,12 +62,12 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 ## Chapter Supporters
 以下の企業は、チャプタースポンサーとしてOWASP Japan Chapterを支援していただいています。個人の皆様、法人の皆様ともに、オワスプジャパンを力強くサポートしてくださり、ありがとうございます。
 
-| [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/)|[<img src="https://owasp.org/www-chapter-japan/assets/images/Cybozu.png" width="200">](https://cybozu.co.jp/en/company/)|[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) |
-|----|----|----|
-||||
-| [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)|
+| [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/)|[<img src="https://owasp.org/www-chapter-japan/assets/images/Cybozu.png" width="200">](https://cybozu.co.jp/en/company/)|[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) |[<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/) |
+|----|----|----|----|
+|||||
+| [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/www-chapter-japan/assets/images/Fastly_logo_2020.jpg" width="200">](https://www.fastly.com/jp/) |
 
 #### OWASP Japan Chapter ローカル・スポンサーシップ	
-   * 1000ドルのご寄付/1ショット/年間を受け付けています。
+   * 1000ドルのご寄付/1ショット を受け付けています。
    * [OWASPへのDonation](https://owasp.org/donate/)で支払い、その後OWASP Foundation事務局に「OWASP Japan Chapterを支援したい」と伝えることで実現できます。
    * 自社のセミナールーム提供や一般の会場、また撮影スタジオやミートアップの飲食など費用を直接支払っていただくことによってVenueサポーターとなっていただくのも歓迎です。
