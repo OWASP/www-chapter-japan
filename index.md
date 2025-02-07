@@ -62,9 +62,10 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 ## Chapter Supporters
 以下の企業は、チャプタースポンサーとしてOWASP Japan Chapterを支援していただいています。個人の皆様、法人の皆様ともに、オワスプジャパンを力強くサポートしてくださり、ありがとうございます。
 
-|サポートしてくださっている企業|||
+||||
 |----|----|----|
 | [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/)|[<img src="https://owasp.org/www-chapter-japan/assets/images/Cybozu.png" width="200">](https://cybozu.co.jp/en/company/)|[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) |
+||||
 | [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)|
 
 #### OWASP Japan Chapter ローカル・スポンサーシップ	
