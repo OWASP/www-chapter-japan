@@ -64,8 +64,8 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 | [<img src="https://owasp.org/www-chapter-japan/assets/images/SCSK-Security_J_B2.jpg" width="180">](https://scsksecurity.co.jp/)|[<img src="https://owasp.org/www-chapter-japan/assets/images/Cybozu.png" width="200">](https://cybozu.co.jp/en/company/)|[<img src="https://owasp.org/assets/images/corp-member-logo/ub-secure.png" width="200">](https://www.ubsecure.jp/) |
 |----|----|----|
-| [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)|
 ||||
+| [<img src="https://owasp.org/www-chapter-japan/assets/images/snyk.png" width="200">](https://go.snyk.io/jp.html) | [<img src="https://owasp.org/assets/images/corp-member-logo/aeyesecuritylab-logo.png" width="160">](https://www.aeyesec.jp/)|
 
 #### OWASP Japan Chapter ローカル・スポンサーシップ	
    * 1000ドルのご寄付/1ショット/年間を受け付けています。
