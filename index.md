@@ -16,19 +16,15 @@ OWASP - Open Worldwide Application Security Project とは、Webをはじめと�
 
 OWASP Japanチャプターは、首都圏のみならず、国内全域における、チャプター設立支援や、特にチャプターのない地域での普及啓発など全国でのセキュリティ啓発活動を行なっています。また、全国でお使いになれる成果物、すなわち各種翻訳プロジェクトなど、グローバルのOWASPコミュニティと連携しています。成果物は、政府・行政機関、教育機関、企業・団体などで活用いただいています。OWASP Japanには、どの地域にお住まいの方もご参加いただけます。
 
-### イベント
+## イベント
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://owasp.doorkeeper.jp/)でお申し込みになれます。
 
-#### WASNight 2025 Kick-Off (Collaboration Event)
-* 2025-01-28 18:00オープン / 18:30スタート at 渋谷カルチャーカルチャー
-* [WASNight Kick-Off 2025 ハードニング・トークライブ](https://hardening.doorkeeper.jp/events/180356)
+### オワスプナイト 2025.03
+* 2025-03-04 18:00オープン / 18:30スタート at サイボウズ(東京 日本橋)
+* [OWASP Night 2025.03](https://owasp.doorkeeper.jp/events/182085)
 
-#### オワスプナイト 2025/01
-* 2025-01-15 18:00オープン / 18:30スタート at SCSKセキュリティ(豊洲)
-* [OWASP Night 2025](https://owasp.doorkeeper.jp/events/180284)
-
-#### OWASP Japanに参加するには
+### OWASP Japanに参加するには
 * OWASPが主催・参画するイベントに参加。３ヶ月程度の頻度でOWASP Night/Dayや関連イベントを開催しています。
 * SNS: twitter, facebookなどのSNSにもOWASP Japanアカウントがありますのでぜひからんでください。
 * 翻訳/日本語編集[OWASPドキュメント日本語化作業Githubレポジトリ](https://github.com/owasp-ja) に参加。プルリクをお願いします。
