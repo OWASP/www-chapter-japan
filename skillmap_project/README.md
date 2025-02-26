@@ -14,7 +14,7 @@
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
 * [脆弱性トリアージガイドライン作成の手引き](https://github.com/WebAppPentestGuidelines/TriageGuidelines/tree/main)
 * [ASM導入検討を進めるためのガイダンス（基礎編）](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/README.md#asm%E5%B0%8E%E5%85%A5%E6%A4%9C%E8%A8%8E%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9%E5%9F%BA%E7%A4%8E%E7%B7%A8)
-* [脆弱性診断士のキャリアデザインガイド \| 脆弱性診断士のキャリアデザインガイド](https://wg1.isog-j.org/CareerDesignGuide/)
+* [脆弱性診断士のキャリアデザインガイド](https://wg1.isog-j.org/CareerDesignGuide/)
 * [脆弱性診断士スキルマップ＆シラバス](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project#%E8%84%86%E5%BC%B1%E6%80%A7%E8%A8%BA%E6%96%AD%E5%A3%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
 
 
