@@ -20,9 +20,9 @@ OWASP Japanチャプターは、首都圏のみならず、国内全域におけ
 OWASP Japanチャプターが主催/共催/協力するイベントを記載しています。
 主催イベントは、主にDoorkeeperの[「オワスプジャパン」ページ](https://owasp.doorkeeper.jp/)でお申し込みになれます。
 
-### オワスプナイト 2025.03
-* 2025-03-04 18:00オープン / 18:30スタート at サイボウズ(東京 日本橋)
-* [OWASP Night 2025.03](https://owasp.doorkeeper.jp/events/182085)
+### オワスプナイト 2026.1 
+* 2026-01-27 18:00オープン / 18:30スタート at 東京カルカル(東京 渋谷)
+* [WASNight(collaboration event) 2026.01](https://owasp.doorkeeper.jp/events/194033)
 
 ### OWASP Japanに参加するには
 * OWASPが主催・参画するイベントに参加。３ヶ月程度の頻度でOWASP Night/Dayや関連イベントを開催しています。
