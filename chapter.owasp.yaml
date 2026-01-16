@@ -1,0 +1,29 @@
+community:
+  - name: chapter-japan
+    platform: slack
+    url: https://owasp.slack.com/archives/C04V007RP
+    description: 'Chapters in Japan:'
+leaders:
+  - name: Riotaro OKADA
+    email: riotaro@owasp.org
+    github: okdt
+  - name: Sen UENO
+    email: sen.ueno@owasp.org
+    github: ueno1000
+location:
+  country: Japan
+  country_code: JP
+  region: Asia
+  latitude: 36.5748441
+  longitude: 139.2394179
+meetup_group: japan-owasp-meetup-group
+name: OWASP Japan
+repositories:
+  - name: www-chapter-japan
+    url: https://github.com/OWASP/www-chapter-japan
+    description: OWASP Foundation Web Repository
+tags:
+  - japan
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-japan
