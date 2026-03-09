@@ -21,7 +21,7 @@
 ---
 # 脆弱性診断士倫理綱領
 [脆弱性診断士スキルマッププロジェクト](https://github.com/OWASP/www-chapter-japan/tree/master/skillmap_project)では「脆弱性診断士倫理綱領」を制定し、脆弱性診断士の行動規範を示すこととしました。
-* [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md)
+* [脆弱性診断士倫理綱領](https://wg1.isog-j.org/CodeofEthics/)
 
 ---
 # Webシステム／Webアプリケーションセキュリティ要件書
